@@ -1,0 +1,11 @@
+/Users/ibrahimuylas/Projects/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.0/DesignPatterns.deps.json
+/Users/ibrahimuylas/Projects/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.0/DesignPatterns.runtimeconfig.json
+/Users/ibrahimuylas/Projects/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.0/DesignPatterns.runtimeconfig.dev.json
+/Users/ibrahimuylas/Projects/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.0/DesignPatterns.dll
+/Users/ibrahimuylas/Projects/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.0/DesignPatterns.pdb
+/Users/ibrahimuylas/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.0/DesignPatterns.csprojResolveAssemblyReference.cache
+/Users/ibrahimuylas/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/ibrahimuylas/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.0/DesignPatterns.AssemblyInfoInputs.cache
+/Users/ibrahimuylas/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.0/DesignPatterns.AssemblyInfo.cs
+/Users/ibrahimuylas/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.0/DesignPatterns.dll
+/Users/ibrahimuylas/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.0/DesignPatterns.pdb
